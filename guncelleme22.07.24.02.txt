@@ -1,3 +1,0 @@
-version=22.07.24.02
-url=https://github.com/ertugrul-yazilim/tasinir_barkod/releases/latest
-changelog=Yeni PDF çıktısı, İkon Düzeltmeleri
