@@ -1,2 +1,0 @@
-version=22.07.24.03
-changelog=Yeni PDF çıktısı, İkon Düzeltmeleri
